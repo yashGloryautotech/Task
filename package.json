@@ -1,0 +1,23 @@
+{
+  "name": "blog-application",
+  "version": "1.0.0",
+  "description": "this is a very small REST API for a blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "apidoc": "^0.25.0",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.0",
+    "mongoose": "^5.10.15",
+    "multer": "^1.4.2",
+    "shortid": "^2.2.16",
+    "swagger-jsdoc": "^5.0.1",
+    "swagger-ui-express": "^4.1.5"
+  }
+}
